@@ -55,6 +55,7 @@ public class CategoryActivity extends AppCompatActivity  {
 
         String[] items = {"건국대학교", "세종대학교", "고려대학교",
                 "연세대학교", "서울대학교"};
+                
         @Override
         public int getCount() {
             return items.length;
