@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city">
+        <item>서울</item>
+        <item>경기</item>
+        <item>대전</item>
+        <item>대구</item>
+    </string-array>
+
+    <string-array name="univ">
+        <item>건국대학교</item>
+        <item>서울대학교</item>
+        <item>연세대학교</item>
+        <item>한양대학교</item>
+    </string-array>
+
+    <string-array name="major">
+        <item>인터넷미디어공학부</item>
+        <item>컴퓨터공학부</item>
+        <item>전자공학부</item>
+    </string-array>
+
+</resources>

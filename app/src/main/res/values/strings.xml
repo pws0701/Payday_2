@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Payday</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_book">AddBookActivity</string>
+
+    <string name="search_label">Search</string>
+    <string name="search_hint">Search Names</string>
+
+    <string name="city_prompt">지역</string>
+    <string name="univ_prompt">대학</string>
+    <string name="major_prompt">전공</string>
+    <string name="title_activity_alarm">AlarmActivity</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_blank">BlankActivity</string>
+    <string name="title_activity_category">CategoryActivity</string>
+    <string name="title_activity_a_search">aSearchActivity</string>
+    <string name="title_activity_book_detail_page">book_detail_page</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_join">Join</string>
+    <string name="title_activity_main_activity__l">MainActivity_L</string>
+
+</resources>
