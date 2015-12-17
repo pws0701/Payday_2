@@ -13,6 +13,7 @@ public class URLConnector extends Thread{
 
     private String result;
     private String URL;
+    
 
     public URLConnector(String url){
         URL=url;
@@ -38,6 +39,7 @@ public class URLConnector extends Thread{
                 conn.setRequestMethod("GET");
                 conn.setDoInput(true);
                 conn.setDoOutput(true);
+
 
                 int resCode = conn.getResponseCode();
                 if(resCode == HttpURLConnection.HTTP_OK){
